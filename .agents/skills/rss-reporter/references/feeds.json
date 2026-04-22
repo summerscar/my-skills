@@ -1,0 +1,68 @@
+[
+  {
+    "name": "React Status",
+    "url": "https://react.statuscode.com/rss/",
+    "type": "browser",
+    "description": "React 生态周报，每周更新"
+  },
+  {
+    "name": "JavaScript Weekly",
+    "url": "https://cprss.s3.amazonaws.com/javascriptweekly.com.xml",
+    "type": "browser",
+    "description": "JavaScript 周报，每周更新"
+  },
+  {
+    "name": "Frontender (Medium)",
+    "url": "https://medium.com/feed/@frontender-ua",
+    "type": "browser",
+    "description": "前端技术文章"
+  },
+  {
+    "name": "FE News (Substack)",
+    "url": "https://fenews.substack.com/archive",
+    "type": "browser",
+    "description": "前端工程师新闻通讯"
+  },
+  {
+    "name": "JSer.info",
+    "url": "https://jser.info/rss/",
+    "type": "browser",
+    "description": "日本 JavaScript 周报"
+  },
+  {
+    "name": "Hacker News Show",
+    "url": "https://hnrss.org/show?points=50&comments=25",
+    "type": "browser",
+    "description": "Hacker News Show HN，分数>50的项目"
+  },
+  {
+    "name": "GitHub Trending",
+    "url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/all.xml",
+    "type": "browser",
+    "description": "GitHub 每周热门项目"
+  },
+  {
+    "name": "阮一峰博客",
+    "url": "https://www.ruanyifeng.com/blog/atom.xml",
+    "type": "browser",
+    "description": "阮一峰科技爱好者周刊"
+  },
+  {
+    "name": "Frontend Focus",
+    "url": "https://frontendfoc.us/rss/",
+    "type": "browser",
+    "description": "前端技术周报，每周更新"
+  },
+  {
+    "name": "ES.next News",
+    "url": "https://feeds.feedburner.com/EsnextNews",
+    "type": "browser",
+    "description": "JavaScript ES.next 最新动态"
+  },
+  {
+    "name": "MDN Blog",
+    "url": "https://developer.mozilla.org/en-US/blog/rss.xml",
+    "type": "browser",
+    "description": "MDN 开发者博客"
+  }
+]
