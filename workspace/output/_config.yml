@@ -6,14 +6,7 @@ description: 前端技术周报和 GitHub Release 周报归档
 
 # Markdown 设置
 markdown: kramdown
-highlighter: rouge
-
-# 插件
-plugins:
-  - jekyll-seo-tag
-  - jekyll-sitemap
 
 # 排除文件
 exclude:
   - README.md
-  - _config.yml
