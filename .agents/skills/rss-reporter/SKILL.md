@@ -142,6 +142,8 @@ RSS 源列表存储在 `references/feeds.json`，格式：
 
 **重要：如果文件已存在，必须先删除旧文件再创建新文件，确保覆盖已存在的内容。**
 
+**注意：GitHub Pages 使用 Jekyll 自动渲染 Markdown 为 HTML，因此 index.html 中的链接应指向 .html 文件（如 rss-weekly-YYYY-MM-DD.html），而非 .md 文件。**
+
 ### 2. 更新 index.html（重要！）
 
 生成周报后，**必须更新 workspace/output/index.html**，将新生成的周报添加到文章列表中。
