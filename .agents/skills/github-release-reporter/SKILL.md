@@ -240,7 +240,7 @@ if (hoursDiff <= 24) {
 - 生成文章列表 HTML，格式如下：
   ```html
   <li class="post-item">
-    <h2><a href="文件名.md">标题</a></h2>
+    <h2><a href="文件名.html">标题</a></h2>
     <p class="date">日期 <span class="category">分类</span></p>
   </li>
   ```
