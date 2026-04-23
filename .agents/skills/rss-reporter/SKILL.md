@@ -140,6 +140,19 @@ RSS 源列表存储在 `references/feeds.json`，格式：
 
 生成周报后保存到 `workspace/output/rss-weekly-YYYY-MM-DD.md`
 
+**文件格式要求：**
+
+- 必须在文件开头添加 Jekyll front matter（YAML 头部）：
+  ```yaml
+  ---
+  layout: default
+  title: 前端技术周报 (YYYY-MM-DD)
+  date: YYYY-MM-DD
+  category: RSS 周报
+  ---
+  ```
+- 然后才是周报内容
+
 **重要：如果文件已存在，必须先删除旧文件再创建新文件，确保覆盖已存在的内容。**
 
 **注意：GitHub Pages 使用 Jekyll 自动渲染 Markdown 为 HTML，因此 index.html 中的链接应指向 .html 文件（如 rss-weekly-YYYY-MM-DD.html），而非 .md 文件。**
