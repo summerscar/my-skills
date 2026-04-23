@@ -10,25 +10,15 @@ category: RSS 周报
 ### 📝 本周要点
 
 - **pnpm 11 RC 0 发布** - 纯 ESM 包迁移，Node.js 18-21 支持终止，加强供应链安全
-  来源: [JSer.info](https://jser.info/2026/04/15/pnpm-11-rc-0-webpack-5.106-servo-v0.1.0/) | [GitHub](https://github.com/pnpm/pnpm/releases/tag/v11.0.0-rc.0)
 - **TypeScript 6.0 正式发布** - 这是基于当前 JavaScript 代码库的最后一个版本，TypeScript 7 将基于 Go 语言
-  来源: [JSer.info](https://jser.info/2026/04/06/typescript-6.0-es2026-rc-axios/) | [官方公告](https://devblogs.microsoft.com/typescript/announcing-typescript-6.0/)
 - **Vite 8.0 发布** - 新版本带来重要更新和性能改进
-  来源: [JSer.info](https://jser.info/2026/03/22/vite-8.0-temporal-stage-4-next.js-16.2/)
 - **Temporal API 达到 Stage 4** - 9 年的标准化旅程，将进入 ES2026，彻底修复 JavaScript 时间处理问题
-  来源: [FE News](https://bloomberg.github.io/js-blog/post/temporal/) | [JSer.info](https://jser.info/2026/03/22/vite-8.0-temporal-stage-4-next.js-16.2/)
 - **Bun v1.3.12 发布** - 新增 Bun.WebView、支持直接执行 Markdown 文件
-  来源: [JSer.info](https://jser.info/2026/04/15/pnpm-11-rc-0-webpack-5.106-servo-v0.1.0/) | [Bun Blog](https://bun.com/blog/bun-v1.3.12)
 - **webpack 5.106 发布** - 新增 Plugin Validation Hook、CSS Modules 运行时样式注入支持
-  来源: [JSer.info](https://jser.info/2026/04/15/pnpm-11-rc-0-webpack-5.106-servo-v0.1.0/) | [webpack 博客](https://webpack.js.org/blog/2026-04-08-webpack-5-106/)
 - **Servo v0.1.0 发布** - Rust 编写的嵌入式 Web 渲染引擎，提供轻量级高性能替代方案
-  来源: [JSer.info](https://jser.info/2026/04/15/pnpm-11-rc-0-webpack-5.106-servo-v0.1.0/) | [Servo 博客](https://servo.org/blog/2026/04/13/servo-0.1.0-release/)
 - **Node.js 将采用年度主要版本发布** - 从 Node 27 开始，每年发布一个主要版本
-  来源: [FE News](https://socket.dev/blog/node-js-moves-to-annual-major-releases-starting-with-node-27)
 - **Axios npm 包遭受供应链攻击** - 跨平台 RAT 恶意软件，提醒开发者注意包安全
-  来源: [FE News](https://snyk.io/blog/axios-npm-package-compromised-supply-chain-attack-delivers-cross-platform/) | [JSer.info](https://jser.info/2026/04/06/typescript-6.0-es2026-rc-axios/)
 - **Google 打击"劫持返回按钮"行为** - 6 月中旬开始惩罚干扰浏览器历史记录导航的网站
-  来源: [Frontend Focus #737](https://frontendfoc.us/issues/737) | [Google](https://developers.google.com/search/docs/specialty/seo/back-button-hijacking)
 
 ### ⚛️ React/前端框架
 
