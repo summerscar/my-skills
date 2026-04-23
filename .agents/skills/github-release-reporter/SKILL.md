@@ -227,6 +227,32 @@ if (hoursDiff <= 24) {
 
 生成周报后保存到 `workspace/output/github-release-YYYY-MM-DD.md`
 
+**重要：如果文件已存在，必须先删除旧文件再创建新文件，确保覆盖已存在的内容。**
+
+### Step 8: 更新 index.html（重要！）
+
+生成周报后，**必须更新 workspace/output/index.html**，将新生成的周报添加到文章列表中。
+
+更新规则：
+
+- 扫描 `workspace/output/` 目录下所有 `*.md` 文件
+- 按文件名（日期）倒序排列
+- 生成文章列表 HTML，格式如下：
+  ```html
+  <li class="post-item">
+    <h2><a href="文件名.md">标题</a></h2>
+    <p class="date">日期 <span class="category">分类</span></p>
+  </li>
+  ```
+- 分类根据文件名判断：
+  - `rss-weekly-*.md` → "RSS 周报"
+  - `github-release-*.md` → "GitHub Release"
+- 标题从 Markdown 文件的第一行提取（去掉 `# ` 前缀）
+- 日期从文件名提取（YYYY-MM-DD 格式）
+- 替换 index.html 中的 `<!-- 文章列表将由 skill 自动更新 -->` 注释后的整个列表
+
+**重要：更新 index.html 后，必须保存文件。**
+
 ## 命令示例
 
 ### 添加订阅
