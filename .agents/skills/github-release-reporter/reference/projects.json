@@ -4,25 +4,25 @@
       "owner": "agentscope-ai",
       "repo": "QwenPaw",
       "alias": "QwenPaw",
-      "lastChecked": "2026-04-22T11:36:00Z",
-      "lastRelease": "v1.1.3",
-      "publishedAt": "2026-04-22T04:58:07Z"
+      "lastChecked": "2026-04-27T09:59:00Z",
+      "lastRelease": "v1.1.4.post2",
+      "publishedAt": "2026-04-25T15:04:16Z"
     },
     {
       "owner": "openclaw",
       "repo": "openclaw",
       "alias": "OpenClaw",
-      "lastChecked": "2026-04-22T11:36:00Z",
-      "lastRelease": "v2026.4.21",
-      "publishedAt": "2026-04-22T04:18:58Z"
+      "lastChecked": "2026-04-27T09:59:00Z",
+      "lastRelease": "v2026.4.24",
+      "publishedAt": "2026-04-25T18:15:17Z"
     },
     {
       "owner": "anomalyco",
       "repo": "opencode",
       "alias": "OpenCode",
-      "lastChecked": "2026-04-22T11:36:00Z",
-      "lastRelease": "v1.14.20",
-      "publishedAt": "2026-04-21T17:55:50Z"
+      "lastChecked": "2026-04-27T09:59:00Z",
+      "lastRelease": "v1.14.28",
+      "publishedAt": "2026-04-27T03:58:13Z"
     }
   ]
 }
