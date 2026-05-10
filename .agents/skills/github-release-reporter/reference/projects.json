@@ -23,6 +23,14 @@
       "lastChecked": "2026-04-27T09:59:00Z",
       "lastRelease": "v1.14.28",
       "publishedAt": "2026-04-27T03:58:13Z"
+    },
+    {
+      "owner": "nousresearch",
+      "repo": "hermes-agent",
+      "alias": "Hermes Agent",
+      "lastChecked": "2026-05-10T09:18:00Z",
+      "lastRelease": "v2026.5.7",
+      "publishedAt": "2026-05-07T16:23:08Z"
     }
   ]
 }

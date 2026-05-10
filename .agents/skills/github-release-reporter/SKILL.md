@@ -37,7 +37,7 @@ tools:
 
 ## 数据存储
 
-**状态文件位置：** `./reference/`
+**状态文件位置：** `./reference/`（相对于 skill 目录的路径）
 
 ```
 ./reference/

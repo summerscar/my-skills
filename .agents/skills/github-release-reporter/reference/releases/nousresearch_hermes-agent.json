@@ -1,0 +1,14 @@
+{
+  "owner": "nousresearch",
+  "repo": "hermes-agent",
+  "releases": [
+    {
+      "tag": "v2026.5.7",
+      "name": "Hermes Agent v0.13.0 (2026.5.7) — The Tenacity Release",
+      "publishedAt": "2026-05-07T16:23:08Z",
+      "htmlUrl": "https://github.com/NousResearch/hermes-agent/releases/tag/v2026.5.7",
+      "body": "Release notes will be updated via browser"
+    }
+  ],
+  "lastUpdated": "2026-05-10T09:18:00Z"
+}
