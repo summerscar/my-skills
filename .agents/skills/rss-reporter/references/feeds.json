@@ -54,12 +54,6 @@
     "description": "前端技术周报，每周更新"
   },
   {
-    "name": "ES.next News",
-    "url": "https://feeds.feedburner.com/EsnextNews",
-    "type": "browser",
-    "description": "JavaScript ES.next 最新动态"
-  },
-  {
     "name": "MDN Blog",
     "url": "https://developer.mozilla.org/en-US/blog/rss.xml",
     "type": "browser",
